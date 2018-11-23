@@ -1,6 +1,9 @@
-cellphone
-computer
+telephone
+personal computer
 printer
 mouse
 television
 monitor
+bike
+bycicle
+motobike
