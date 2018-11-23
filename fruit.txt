@@ -1,6 +1,6 @@
 apple
 banana
 orange
-strawberryyyyyy
-cherryyyyyyy
-pineappleeee
+strawberry
+cherry
+pineapple
