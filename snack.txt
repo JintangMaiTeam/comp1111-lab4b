@@ -1,3 +1,6 @@
+kitcup
+bean
+icecream
 candy
 chocolate
 jelly
