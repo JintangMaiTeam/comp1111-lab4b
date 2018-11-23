@@ -1,6 +1,6 @@
 cellphone
 computer
 printer
-mousesss
-televisionnnnn
-monitorrrr
+mouse
+television
+monitor
