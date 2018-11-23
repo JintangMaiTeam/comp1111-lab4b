@@ -1,6 +1,6 @@
 cola
 tea
 wine
-redteaaaa
-whiteteaaaa
-greenteaaaa
+redtea
+whitetea
+greentea
